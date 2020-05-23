@@ -1,2 +1,2 @@
 # Problem-Solving-IB-Series
-## InterviewBit Solutions
+ InterviewBit Problem Solutions
