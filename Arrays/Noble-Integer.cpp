@@ -14,6 +14,7 @@ int Solution::solve(vector<int> &A) {
     // // }
     // // return -1;
     
+    
     sort(A.begin(),A.end());
     for(int i=0;i<A.size()-1;i++)
     {
